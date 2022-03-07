@@ -1,0 +1,114 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_409fdf0e"
+  },
+  {
+    "name": "index2",
+    "path": "/index2",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\index2.vue",
+    "chunkName": "pages/index2",
+    "_name": "_aa91ac22"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_29ff5cea"
+  },
+  {
+    "name": "more",
+    "path": "/more",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\more.vue",
+    "chunkName": "pages/more",
+    "_name": "_526292e4"
+  },
+  {
+    "name": "new",
+    "path": "/new",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\new\\\\index.vue",
+    "chunkName": "pages/new/index",
+    "_name": "_6b9cbb81"
+  },
+  {
+    "name": "project",
+    "path": "/project",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\project\\\\index.vue",
+    "chunkName": "pages/project/index",
+    "_name": "_61a69e30"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_62462d67"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_1b14b5a1"
+  },
+  {
+    "name": "test2",
+    "path": "/test2",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\test2.vue",
+    "chunkName": "pages/test2",
+    "_name": "_4799a7e1"
+  },
+  {
+    "name": "test3",
+    "path": "/test3",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\test3.vue",
+    "chunkName": "pages/test3",
+    "_name": "_47a7bf62"
+  },
+  {
+    "name": "test4",
+    "path": "/test4",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\test4.vue",
+    "chunkName": "pages/test4",
+    "_name": "_47b5d6e3"
+  },
+  {
+    "name": "test5",
+    "path": "/test5",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\test5.vue",
+    "chunkName": "pages/test5",
+    "_name": "_47c3ee64"
+  },
+  {
+    "name": "test6",
+    "path": "/test6",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\test6.vue",
+    "chunkName": "pages/test6",
+    "_name": "_47d205e5"
+  },
+  {
+    "name": "project-config",
+    "path": "/project/config",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\project\\\\config.vue",
+    "chunkName": "pages/project/config",
+    "_name": "_1e11061c"
+  },
+  {
+    "name": "continent-mountains",
+    "path": "/continent/:mountains?",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\continent\\\\_mountains.vue",
+    "chunkName": "pages/continent/_mountains",
+    "_name": "_a8234088"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\admin\\\\Mypro\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6057b9d3"
+  }
+]
