@@ -221,7 +221,7 @@ methods:{
     }
   },
   back(){
-    this.$router.push('/project/config')
+    this.$router.push('/config')
   }
 }
 }
