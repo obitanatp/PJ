@@ -106,7 +106,7 @@ export default {
       this.$router.go(0);
     },
     back(){
-      this.$router.push('/project/')
+      this.$router.push('/')
     }
   }
 }
